@@ -7,9 +7,11 @@ Hi there, I'm Ghayth! 👋
 ​🚀 Projects I'm working on:
 
 ​MarketScrap: An app for trading scrap metal and coordinating technical repairs.
+
 ​ToDoList: My first project to manage daily tasks efficiently.
 
 ​🛠️ Skills & Interests:
 
 ​Programming: Dart, Flutter, Git & GitHub.
+
 ​Other Passions: DIY Mechanical Engineering, Sustainable Energy, and Agriculture.
